@@ -119,7 +119,7 @@
   btn.type = 'button';
   Object.assign(btn.style, {
     position: 'fixed',
-    zIndex: '2147483647',
+    zIndex: '1099',
     display: 'none',
     padding: '6px 10px',
     font: '600 12px/1.2 Inter, "Helvetica Neue", Arial, sans-serif',
