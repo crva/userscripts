@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         SoundCloud cover downloader
-// @description  Implements a download cover button
+// @description  Implements a "download cover" button when you open a cover preview by clicking on it
 // @version      2026-10-19
 // @author       crva
 // @match        https://soundcloud.com/*
